@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${default}",
-                "C:\\Users\\X039784\\cpp_libraries\\JSON\\include\\"
+                "C:\\Users\\X039784\\cpp_libraries\\JSON\\include\\",
+                "C:\\Users\\X039784\\cpp_libraries\\rapidjson\\include\\"
             ],
             "defines": [
                 "_DEBUG",
